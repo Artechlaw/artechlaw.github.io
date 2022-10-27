@@ -8,4 +8,4 @@ First commit
 
 ## subtitle
 
-(link)[www.link.com]
+[LINKS]([link](https://artechlaw.github.io/))
