@@ -2,4 +2,4 @@
 
 Updates: 
 
-https://artechlaw.github.io/
+[Go to site](https://artechlaw.github.io/)
