@@ -36,3 +36,9 @@ Over the course of a few months, we received a number of amazing entries - all o
 
 
 While the competition is now closed, you can still Tweet your Gin Lane and Plum-Pudding copies to @WilliamHogart5 to get a similarity score (and help our research). If you do submit a copy, make sure you let the Twitter bot know what image to compare by using #DrawGinLane/#DrawThePlumPudding 
+
+
+## Read more
+- [Past events](/past-events).
+- [Upcoming events](/upcoming-events).
+- [Project team](/about).
