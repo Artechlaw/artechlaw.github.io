@@ -3,7 +3,7 @@
 
 ## Read more
 - [Home](/index).
-- [Upcoming events](/upcoming-events).
+- [Past events](/past-events).
 - [Project team](/about).
 
 
