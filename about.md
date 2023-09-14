@@ -43,12 +43,6 @@ Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and
 
 ## Read more
 - [Home](/index).
-- [Upcoming events](/upcoming-events).
-- [Project team](/about).
-
-
-
-## Read more
 - [Past events](/past-events).
 - [Upcoming events](/upcoming-events).
 - [Project team](/about).
