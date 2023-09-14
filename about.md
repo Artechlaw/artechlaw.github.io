@@ -28,14 +28,20 @@ Her research has been supported by fellowships from the Oxford-Bodleian Library,
 
 Cristina is thrilled to be working with Andrea, Cynthia, Isabella, Leo and Stina on the connections between law, technology and creative production, and in particular questions pertaining to the appeal and wide circulation of William Hogarth’s works – copied, imitated and appropriated then and now.
 
-Dr. Cynthia Roman
+## Dr Cynthia Roman
 Partner Investigator
 
 Cynthia Roman is an art historian and curator of eighteenth-century British art. Her scholarship focuses on the production, circulation and collecting of prints, especially graphic satire. Her works extends to inquiries around collecting copies, the practice of copying in the education of professional and non-professional artists, the associative power of copies that continue to prompt a ubiquity of appropriations and parodies and related matters of invention and quality.
 Cynthia has published and presented widely on graphic satire, collecting history and the work of non-professional artists. In addition to many articles and essays, she has been editor, co-editor and contributor to several book projects including Hogarth’s Legacy (2016); Enduring Presence. William Hogarth’s British and European Afterlives with Caroline Patey and Georges Letissier (2021); Staging The Mysterious Mother with Jill Campbell and Jonathan Kramnick (forthcoming 2023); and Female Printmakers, Publishers and Printsellers in the Eighteenth Century: The Imprint of Women in Graphic Media, ca. 1700 -1830 with Cristina S. Martinez (forthcoming 2024).
 She is honoured to be part of the ArTechLaw research team’s cross-disciplinary investigations into the complex and nuanced dynamics of copyright law for the protection of artistic property against the competing significant cultural currency of copying in the visual arts that has long carried meaning across centuries and geographies.
 
-Dr Leonardo Impett
+## Dr Leonardo Impett
 Partner Investigator
 
 Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab’s Rainbow Group, and Microsoft Research Cairo. His Ph.D., with Sabine Süsstrunk and Franco Moretti at EPFL, was on the use of computer vision for the “distant reading” of the history of art. In 2018 Leonardo was a DH fellow at Villa I Tatti – the Harvard University Center for Italian Renaissance Studies, from 2018-2020 he was Scientific Assistant, then Scientist, at the Bibliotheca Hertziana – Max Planck Institute for Art History in Rome. Alongside his research in digital art history, he frequently works with machine learning in arts and culture, including for the Liverpool Biennial, the Royal Opera House, and the Whitney Museum of American Art.
+
+
+## Read more
+- [Past events](/past-events).
+- [Upcoming events](/upcoming-events).
+- [Project team](/about).
