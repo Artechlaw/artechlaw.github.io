@@ -17,5 +17,7 @@ The project is supported by 2 grants:
 ## What are we doing?
 The COVID-19 pandemic required us to reassess some of our original plans to carry out traditional face-to-face collaboration, but we made a virtue of necessity, seeking to carve out non-traditional spaces to facilitate meaningful engagement between people from different disciplines and backgrounds. 
 
-Read about our past events [here](/past-events).
-Read about our upcoming events [here](/upcoming-events).
+## Read more
+- [Past events](/past-events).
+- [Upcoming events](/upcoming-events).
+- [Project team](/about).
