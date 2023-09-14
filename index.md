@@ -1,4 +1,6 @@
-# About the Project
+# ArTechLaw
+
+## About the Project
 
 ArTechLaw is a network of researchers and practitioners from the fields of law, art, and technology seeking to probe relationships between the three disciplines.
 
